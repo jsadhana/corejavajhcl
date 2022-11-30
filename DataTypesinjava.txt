@@ -1,0 +1,74 @@
+Primitive Data Types in Java 
+A. Byte
+
+    Byte data type is a 8-bit signed two's complement integer
+    Minimum value is : -128 (-2^7)
+    Maximum value is : 127 (inclusive)(2^7 -1)
+    Default value is : 0
+    Byte data type is used to save space in large arrays, mainly in place of integers, since a byte is four times smaller than an int
+B. Short
+
+    Short data type is a 16-bit signed two's complement integer
+    Minimum value is : -32,768 (-2^15)
+    Maximum value is : 32,767(inclusive) (2^15 -1)
+    Default value is : 0
+    Short data type can also be used to save memory as byte data type. A short is 2 times smaller than an int
+
+C. Int
+
+    Int data type is a 32-bit signed two's complement integer
+    Minimum value is : -2,147,483,648.(-2^31)
+    Maximum value is : 2,147,483,647(inclusive).(2^31 -1)
+    Default value is : 0
+    Int is generally used as the default data type for integral values unless there is a concern about memory
+
+D. Long
+
+    Long data type is a 64-bit signed two's complement integer
+    Minimum value is : -9,223,372,036,854,775,808.(-2^63)
+    Maximum value is : 9,223,372,036,854,775,807 (inclusive). (2^63 -1)
+    Default value is : 0L
+    This type is used when a wider range than int is needed
+
+E. Float
+
+    Float data type is a single-precision 32-bit IEEE 754 floating point
+    Default value is : 0.0f
+    Float data type is never used for precise values such as currency
+    Float is mainly used to save memory in large arrays of floating point numbers
+
+
+F. Double
+
+    double data type is a double-precision 64-bit IEEE 754 floating point
+    Default value is : 0.0d
+    Double data type should never be used for precise values such as currency
+    This data type is generally used as the default data type for decimal values. generally the default choice
+
+Syntax :
+
+double Variable_Name = Value;
+
+G. Boolean
+
+    boolean data type represents one bit of information
+    There are only two possible values : true and false
+    This data type is used for simple flags that track true/false conditions
+    Default value is : false
+
+Syntax :
+
+boolean Variable_Name = Value (true/false);
+
+H. Char
+
+    char data type is a single 16-bit Unicode character
+    Minimum value is : '\u0000' (or 0)
+    Maximum value is : '\uffff' (or 65,535 inclusive)
+    Char data type is used to store any character
+
+Syntax :
+
+char Variable_Name = Value;
+
+

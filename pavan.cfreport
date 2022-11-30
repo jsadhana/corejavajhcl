@@ -1,0 +1,85 @@
+004120161017WWINVRET              706 212073176_FCS_Inventory                        0048   0048FPBFrance                                                            00                                                                                                                                              
+030UNCLASSIFIED          
+07                                                   2063AG151000AM 
+012Base Configuration
+621 5615DB2           000001SWC   073176    W0001PN                                                                        206351000AM06 2063-AG1                                        20160501                X           Y
+67W0003S3           5605DB2           FS                         206351000AM2016050120170430
+67W0001PP           5615DB2           C                          296484C55170000000000000000
+67W0001PR           5615DB2           C                          296484C55270000000000000000
+67W0001PN           5615DB2           B                          206351000AM0000000000000000
+63DB2 11 for z/OS                                             
+64MK_5615DB2_TRANSITION                      
+63Transition option selection                                 
+66TU3_TIER_6                                  
+63TU3 5477+ MSU 14.0%                                         
+64MK_5sd;lkfjsda;fj615DB2_EE_SELECT                       
+63Entitlement Entity Selection                                
+66S0171R3                                     
+63QMF Classic Edition V11                                     
+66S0171R2                                     
+63DB2 11 for z/OS                                             
+64MK_S0171R2_VM                              
+63Value Metric                                                
+66338800                                      
+63Adv. Workload License Charge                                
+64MK_S0171R2_338800_255800_QVMS              
+63MSU                                                         
+663855                                        
+633.855                                                       
+64MK_S0171R2_LICTYP                          
+63License type                                                
+66BASIC                                       
+63Basic                                                       
+64MK_S0171R2_CHO                             
+63Charge option                                               
+66MLC                                         
+63Monthly Charge                                              
+64MK_S0171R3_VM                              
+63Value Metric                                                
+66338800                                      
+63Adv. Workload License Charge                                
+64MK_S0171R3_338800_255800_QVMS              
+63MSU                                                         
+663855                                        
+633.855                                                       
+64MK_S0171R3_LICTYP                          
+63License type                                                
+66BASIC                                       
+63Basic                                                       
+64MK_S0171R3_CHO                             
+63Charge option                                               
+66MLC                                         
+63Monthly Charge                                              
+621 5655EC6           000001SWC   073176    W00001W                                                                        206351000AM06 2063-AG1                                        20160601                X            
+67W00001X           5655EC6           C                          296484C55270000000000000000
+67W00001Y           5655EC6           C                          296484C55170000000000000000
+67W00001W           5655EC6           B                          206351000AM0000000000000000
+63Enterprise COBOL z/OS V6                                    
+64MK_5655EC6_TRANSITION                      
+63Transition option selection                                 
+66TU3_TIER_6                                  
+63TU3 5477+ MSU 14.0%                                         
+64MK_5655EC6_EE_SELECT                       
+63Entitlement Entity Selection                                
+66S017RBR                                     
+63Ent COBOL z/OS                                              
+64MK_S017RBR_VM                              
+63Value Metric                                                
+66338800                                      
+63Adv. Workload License Charge                                
+64MK_S017RBR_338800_255800_QVMS              
+63MSU                                                         
+66417                                         
+63417                                                         
+64MK_S017RBR_LICTYP                          
+63License type                                                
+66BASIC                                       
+63Basic                                                       
+64MK_S017RBR_CHO                             
+63Charge option                                               
+66MLC                                         
+63Monthly Charge            
+9882
+99479346343
+AA                                      ksindoleKamal                                              20161017-110013     PYYYN436431758147818    ksindole@in.ibm.com                               DEBUG                                                                                               201610170Y                                   Y               
+CD     706073176    0027450760                                                  BNP PARIBAS PARTNERS FOR INNOVATION                                                                                                                                                                     
